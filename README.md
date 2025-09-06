@@ -28,7 +28,7 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 ---
 
 ## 🌍 Live Demo
-🔗 Click here to view the calculator
+🔗 [Click here to view the calculator](https://m-saad-saif.github.io/Std-calculator/)
 
 ---
 
